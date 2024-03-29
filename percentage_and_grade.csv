@@ -1,0 +1,200 @@
+Student_ID,Percentage,Grade_Point_Scale,GPA,GPA_Remarks,Result_ID
+1001,87-89,B+,3.3,Good,CG12.01
+1002,87-89,B+,3.3,Good,CG12.02
+1003,83-86,B,3.0,Satisfactory,CG12.03
+1004,80-82,B-,2.7,Satisfactory,CG12.04
+1005,97-100,A+,4.0,Excellent,CG12.05
+1006,90 - 92,A-,3.7,Good,CG12.06
+1007,87-89,B+,3.3,Good,CG12.07
+1008,83-86,B,3.0,Satisfactory,CG12.08
+1009,80-82,B-,2.7,Satisfactory,CG12.09
+1010,77-79,C+,2.3,Satisfactory,CG12.10
+1011,73-76,C,2.0,Needs improvement,CG12.11
+1012,70-72,C-,1.7,Needs improvement,CG12.12
+1013,67-69,D+,1.3,Unsatisfactory,CG12.13
+1014,63-66,D,1.0,Unsatisfactory,CG12.14
+1015,93-96 ,A,4.0,Excellent,CG12.15
+1016,90 - 92,A-,3.7,Good,CG12.16
+1017,93-96 ,A,4.0,Excellent,CG12.17
+1018,90 - 92,A-,3.7,Good,CG12.18
+1019,70-72,C-,1.7,Needs improvement,CG12.19
+1020,67-69,D+,1.3,Unsatisfactory,CG12.20
+1021,63-66,D,1.0,Unsatisfactory,CG12.21
+1022,90 - 92,A-,3.7,Good,CG12.22
+1023,87-89,B+,3.3,Good,CG12.23
+1024,90 - 92,A-,3.7,Good,CG12.24
+1025,87-89,B+,3.3,Good,CG12.25
+1026,97-100,A+,4.0,Excellent,CG12.26
+1027,93-96 ,A,4.0,Excellent,CG12.27
+1028,87-89,B+,3.3,Good,CG12.28
+1029,87-89,B+,3.3,Good,CG12.29
+1030,97-100,A+,4.0,Excellent,CG12.30
+1031,93-96 ,A,4.0,Excellent,CG12.31
+1032,70-72,C-,1.7,Needs improvement,CG12.32
+1033,67-69,D+,1.3,Unsatisfactory,CG12.33
+1034,63-66,D,1.0,Unsatisfactory,CG12.34
+1035,83-86,B,3.0,Satisfactory,CG12.35
+1036,80-82,B-,2.7,Satisfactory,CG12.36
+1037,93-96 ,A,4.0,Excellent,CG12.37
+1038,97-100,A+,4.0,Excellent,CG12.38
+1039,97-100,A+,4.0,Excellent,CG12.39
+1040,93-96 ,A,4.0,Excellent,CG12.40
+1041,93-96 ,A,4.0,Excellent,CG12.41
+1042,97-100,A+,4.0,Excellent,CG12.42
+1043,83-86,B,3.0,Satisfactory,CG12.43
+1044,80-82,B-,2.7,Satisfactory,CG12.44
+1045,70-72,C-,1.7,Needs improvement,CG12.45
+1046,67-69,D+,1.3,Unsatisfactory,CG12.46
+1047,63-66,D,1.0,Unsatisfactory,CG12.47
+1048,67-69,D+,1.3,Unsatisfactory,CG12.48
+1049,97-100,A+,4.0,Excellent,CG12.49
+1050,97-100,A+,4.0,Excellent,CG12.50
+1051,97-100,A+,4.0,Excellent,CG12.51
+1052,97-100,A+,4.0,Excellent,CG12.52
+1053,83-86,B,3.0,Satisfactory,CG12.53
+1054,80-82,B-,2.7,Satisfactory,CG12.54
+1055,80-82,B-,2.7,Satisfactory,CG12.55
+1056,70-72,C-,1.7,Needs improvement,CG12.56
+1057,67-69,D+,1.3,Unsatisfactory,CG12.57
+1058,93-96 ,A,4.0,Excellent,CG12.58
+1059,90 - 92,A-,3.7,Good,CG12.59
+1060,87-89,B+,3.3,Good,CG12.60
+1061,83-86,B,3.0,Satisfactory,CG12.61
+1062,80-82,B-,2.7,Satisfactory,CG12.62
+1063,77-79,C+,2.3,Satisfactory,CG12.63
+1064,73-76,C,2.0,Needs improvement,CG12.64
+1065,87-89,B+,3.3,Good,CG12.65
+1066,87-89,B+,3.3,Good,CG12.66
+1067,83-86,B,3.0,Satisfactory,CG12.67
+1068,80-82,B-,2.7,Satisfactory,CG12.68
+1069,87-89,B+,3.3,Good,CG12.69
+1070,90 - 92,A-,3.7,Good,CG12.70
+1071,80-82,B-,2.7,Satisfactory,CG12.71
+1072,80-82,B-,2.7,Satisfactory,CG12.72
+1073,70-72,C-,1.7,Needs improvement,CG12.73
+1074,70-72,C-,1.7,Needs improvement,CG12.74
+1075,87-89,B+,3.3,Good,CG12.75
+1076,87-89,B+,3.3,Good,CG12.76
+1077,87-89,B+,3.3,Good,CG12.77
+1078,87-89,B+,3.3,Good,CG12.78
+1079,87-89,B+,3.3,Good,CG12.79
+1080,87-89,B+,3.3,Good,CG12.80
+1081,87-89,B+,3.3,Good,CG12.81
+1082,87-89,B+,3.3,Good,CG12.82
+1083,87-89,B+,3.3,Good,CG12.83
+1084,87-89,B+,3.3,Good,CG12.84
+1085,70-72,C-,1.7,Needs improvement,CG12.85
+1086,67-69,D+,1.3,Unsatisfactory,CG12.86
+1087,70-72,C-,1.7,Needs improvement,CG12.87
+1088,87-89,B+,3.3,Good,CG12.88
+1089,60-62,D-,0.7,Failure,CG12.89
+1090,0-59,F,0.0,Failure,CG12.90
+1091,93-96 ,A,4.0,Excellent,CG12.91
+1092,93-96 ,A,4.0,Excellent,CG12.92
+1093,70-72,C-,1.7,Needs improvement,CG12.93
+1094,67-69,D+,1.3,Unsatisfactory,CG12.94
+1095,80-82,B-,2.7,Satisfactory,CG12.95
+1096,97-100,A+,4.0,Excellent,CG12.96
+1097,0-59,F,0.0,Failure,CG12.97
+1098,97-100,A+,4.0,Excellent,CG12.98
+1099,60-62,D-,0.7,Failure,CG12.99
+1100,67-69,D+,1.3,Unsatisfactory,CG12.100
+1101,97-100,A+,4.0,Excellent,CG12.101
+1102,97-100,A+,4.0,Excellent,CG12.102
+1103,93-96 ,A,4.0,Excellent,CG12.103
+1104,67-69,D+,1.3,Unsatisfactory,CG12.104
+1105,60-62,D-,0.7,Failure,CG12.105
+1106,97-100,A+,4.0,Excellent,CG12.106
+1107,90 - 92,A-,3.7,Good,CG12.107
+1108,87-89,B+,3.3,Good,CG12.108
+1109,83-86,B,3.0,Satisfactory,CG12.109
+1110,80-82,B-,2.7,Satisfactory,CG12.110
+1111,77-79,C+,2.3,Satisfactory,CG12.111
+1112,87-89,B+,3.3,Good,CG12.112
+1113,70-72,C-,1.7,Needs improvement,CG12.113
+1114,67-69,D+,1.3,Unsatisfactory,CG12.114
+1115,93-96 ,A,4.0,Excellent,CG12.115
+1116,60-62,D-,0.7,Failure,CG12.116
+1117,63-66,D,1.0,Unsatisfactory,CG12.117
+1118,67-69,D+,1.3,Unsatisfactory,CG12.118
+1119,97-100,A+,4.0,Excellent,CG12.119
+1120,0-59,F,0.0,Failure,CG12.120
+1121,70-72,C-,1.7,Needs improvement,CG12.121
+1122,87-89,B+,3.3,Good,CG12.122
+1123,67-69,D+,1.3,Unsatisfactory,CG12.123
+1124,70-72,C-,1.7,Needs improvement,CG12.124
+1125,87-89,B+,3.3,Good,CG12.125
+1126,60-62,D-,0.7,Failure,CG12.126
+1127,0-59,F,0.0,Failure,CG12.127
+1128,93-96 ,A,4.0,Excellent,CG12.128
+1129,87-89,B+,3.3,Good,CG12.129
+1130,70-72,C-,1.7,Needs improvement,CG12.130
+1131,67-69,D+,1.3,Unsatisfactory,CG12.131
+1132,97-100,A+,4.0,Excellent,CG12.132
+1133,0-59,F,0.0,Failure,CG12.133
+1134,87-89,B+,3.3,Good,CG12.134
+1135,90 - 92,A-,3.7,Good,CG12.135
+1136,80-82,B-,2.7,Satisfactory,CG12.136
+1137,90 - 92,A-,3.7,Good,CG12.137
+1138,0-59,F,0.0,Failure,CG12.138
+1139,87-89,B+,3.3,Good,CG12.139
+1140,87-89,B+,3.3,Good,CG12.140
+1141,67-69,D+,1.3,Unsatisfactory,CG12.141
+1142,97-100,A+,4.0,Excellent,CG12.142
+1143,83-86,B,3.0,Satisfactory,CG12.143
+1144,80-82,B-,2.7,Satisfactory,CG12.144
+1145,80-82,B-,2.7,Satisfactory,CG12.145
+1146,70-72,C-,1.7,Needs improvement,CG12.146
+1147,0-59,F,0.0,Failure,CG12.147
+1148,90 - 92,A-,3.7,Good,CG12.148
+1149,90 - 92,A-,3.7,Good,CG12.149
+1150,90 - 92,A-,3.7,Good,CG12.150
+1151,0-59,F,0.0,Failure,CG12.151
+1152,90 - 92,A-,3.7,Good,CG12.152
+1153,90 - 92,A-,3.7,Good,CG12.153
+1154,90 - 92,A-,3.7,Good,CG12.154
+1155,90 - 92,A-,3.7,Good,CG12.155
+1156,67-69,D+,1.3,Unsatisfactory,CG12.156
+1157,67-69,D+,1.3,Unsatisfactory,CG12.157
+1158,93-96 ,A,4.0,Excellent,CG12.158
+1159,60-62,D-,0.7,Failure,CG12.159
+1160,67-69,D+,1.3,Unsatisfactory,CG12.160
+1161,93-96 ,A,4.0,Excellent,CG12.161
+1162,97-100,A+,4.0,Excellent,CG12.162
+1163,97-100,A+,4.0,Excellent,CG12.163
+1164,67-69,D+,1.3,Unsatisfactory,CG12.164
+1165,70-72,C-,1.7,Needs improvement,CG12.165
+1166,93-96 ,A,4.0,Excellent,CG12.166
+1167,90 - 92,A-,3.7,Good,CG12.167
+1168,93-96 ,A,4.0,Excellent,CG12.168
+1169,0-59,F,0.0,Failure,CG12.169
+1170,90 - 92,A-,3.7,Good,CG12.170
+1171,90 - 92,A-,3.7,Good,CG12.171
+1172,67-69,D+,1.3,Unsatisfactory,CG12.172
+1173,67-69,D+,1.3,Unsatisfactory,CG12.173
+1174,97-100,A+,4.0,Excellent,CG12.174
+1175,60-62,D-,0.7,Failure,CG12.175
+1176,67-69,D+,1.3,Unsatisfactory,CG12.176
+1177,70-72,C-,1.7,Needs improvement,CG12.177
+1178,67-69,D+,1.3,Unsatisfactory,CG12.178
+1179,63-66,D,1.0,Unsatisfactory,CG12.179
+1180,0-59,F,0.0,Failure,CG12.180
+1181,80-82,B-,2.7,Satisfactory,CG12.181
+1182,77-79,C+,2.3,Satisfactory,CG12.182
+1183,93-96 ,A,4.0,Excellent,CG12.183
+1184,93-96 ,A,4.0,Excellent,CG12.184
+1185,97-100,A+,4.0,Excellent,CG12.185
+1186,93-96 ,A,4.0,Excellent,CG12.186
+1187,93-96 ,A,4.0,Excellent,CG12.187
+1188,97-100,A+,4.0,Excellent,CG12.188
+1189,97-100,A+,4.0,Excellent,CG12.189
+1190,97-100,A+,4.0,Excellent,CG12.190
+1191,0-59,F,0.0,Failure,CG12.191
+1192,87-89,B+,3.3,Good,CG12.192
+1193,87-89,B+,3.3,Good,CG12.193
+1194,0-59,F,0.0,Failure,CG12.194
+1195,80-82,B-,2.7,Satisfactory,CG12.195
+1196,80-82,B-,2.7,Satisfactory,CG12.196
+1197,70-72,C-,1.7,Needs improvement,CG12.197
+1198,70-72,C-,1.7,Needs improvement,CG12.198
+1199,87-89,B+,3.3,Good,CG12.199
