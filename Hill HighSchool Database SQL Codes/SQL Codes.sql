@@ -7,7 +7,6 @@ SELECT
 FROM 
 	student_database;
 
-
 /*
 The next question is to look for how many students had a perfect attendance records throughout the semester
   In hill_high_school an attendance of 180 is a perfect attendance for a student.
@@ -26,7 +25,6 @@ The next question is to look for how many students had a perfect attendance reco
     LIMIT 
 		10;
 
-
 /*
 This query is to find the total count of students who had a perfect attendance of 180
  */
@@ -37,7 +35,6 @@ FROM
 	attendance
 WHERE 
 	No_Attendance = 180;
-
 
 /*
 The Total amount of students with Active classroom_remarks
@@ -50,7 +47,6 @@ FROM
 WHERE 
 	Classroom_Remark = 'Active';
 
-
 /*
 The total amount of students with Non_active classroom_remarks
 */
@@ -62,7 +58,6 @@ FROM
 WHERE 
 	Classroom_Remark = 'Non_active';
 
-
 /*
 Total amount of students with Playful classroom_remarks
 */
@@ -73,7 +68,6 @@ FROM
 	classroom_remarks
 WHERE 
 	Classroom_Remark = 'Playful';
-
 
 /*
 Using the JOIN statement to find students GPA and their number of attendance
@@ -94,7 +88,6 @@ ORDER BY
 	a.No_Attendance DESC
 LIMIT 
 	15;
-
 
 /* Using CASE statement to group and count all students GPAs into their various GPA performance */
 
@@ -124,7 +117,6 @@ GROUP BY
         ELSE 'Unknown'
     END;
 
-
 /* Using a CASE statement to group and count all students with Distinction in their English, Mathematics and Science
 subjects. */
 
@@ -139,7 +131,6 @@ WHERE
     OR Mathematics = 'Distinction'
     OR Science = 'Distinction';
 
-
 /* Using a CASE statement to group and count all students who failed their English, Mathematics and Science
 subjects. */
 
@@ -153,7 +144,6 @@ WHERE
     English = 'Fail'
     OR Mathematics = 'Fail'
     OR Science = 'Fail';
-
 
 /* Using a CASE statement to group and count all students in Grade 12 inton their various age groups. */
 
@@ -174,7 +164,6 @@ WHERE
 	age BETWEEN 15 AND 20
 GROUP BY 
 	Age_Group;
-
 
 /* Using a JOIN Clause to find student names who had Percentage of 97-100 and Grade_Point_Scale of A+. */
 
